@@ -16,8 +16,6 @@
 <!-- Stats centrados -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevAnd7&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnd7&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
 ---
