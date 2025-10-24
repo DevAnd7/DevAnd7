@@ -2,6 +2,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
+![Andri's GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-dev&show_icons=true&theme=radical)
+
 # 👋 ¡Hola! Soy Andri
 
 Tengo 34 años, soy venezolano y desde 2022 vivo en España. Mi formación original es como **Ingeniero en Higiene y Seguridad Laboral**, pero mi curiosidad por la tecnología me ha llevado a reinventarme: actualmente estudio para convertirme en **programador**.
