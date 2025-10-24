@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnd7&layout=compact&theme=radical" alt="Top Languages"/>
     </td>
     <td>
-      <img src="Banner para perfil" alt="Banner de Andri" style="width:100%;"/>
+      <img src="Banner para perfil.png" alt="Banner de Andri" style="width:100%;"/>
     </td>
   </tr>
 </table>
