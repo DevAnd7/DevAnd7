@@ -1,3 +1,8 @@
+<!-- Banner centrado -->
+<p align="center">
+  <img src="Banner para perfil.png" alt="Banner ¡Hola! Soy Andri" style="width:100%; max-width:900px;"/>
+</p>
+
 <!-- Tecnologías -->
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -8,28 +13,17 @@
 
 ---
 
-<!-- Stats + Banner -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DevAnd7&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnd7&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="Banner para perfil.png" alt="Banner de Andri" style="width:50%;"/>
-    </td>
-  </tr>
-</table>
+<!-- Stats centrados -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAnd7&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnd7&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+</p>
 
 ---
 
+
 <!-- Presentación -->
-
-
-
-# 👋 ¡Hola! Soy Andri
-
 Tengo 34 años, soy venezolano y desde 2022 vivo en España. Mi formación original es como **Ingeniero en Higiene y Seguridad Laboral**, pero mi curiosidad por la tecnología me ha llevado a reinventarme: actualmente estudio para convertirme en **programador**.
 
 ## 🎶 Pasión por la música y la tecnología
