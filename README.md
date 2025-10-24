@@ -1,6 +1,6 @@
 <!-- Banner centrado -->
 <p align="center">
-  <img src="Banner para perfil.png" alt="Banner ¡Hola! Soy Andri" style="width:100%; max-width:900px;"/>
+  <img src="Banner para perfil.png" alt="Banner ¡Hola! Soy Andri" width="450"/>
 </p>
 
 <!-- Tecnologías -->
