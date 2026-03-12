@@ -22,7 +22,7 @@
 
 
 <!-- Presentación -->
-Tengo 34 años, soy venezolano y desde 2022 vivo en España. Mi formación original es como **Ingeniero en Higiene y Seguridad Laboral**, pero mi curiosidad por la tecnología me ha llevado a reinventarme: actualmente estudio para convertirme en **programador**.
+Tengo 35 años, soy venezolano y desde 2022 vivo en España. Mi formación original es como **Ingeniero en Higiene y Seguridad Laboral**, pero mi curiosidad por la tecnología me ha llevado a reinventarme: actualmente estudio para convertirme en **programador**.
 
 ## 🎶 Pasión por la música y la tecnología
 
